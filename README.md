@@ -7,6 +7,8 @@
 
 ### iPhone 6_7_8
 
+<img width="1642" height="831" alt="Screenshot 2026-08-09 at 4 40 40 PM" src="https://github.com/user-attachments/assets/6805c271-7696-4310-97de-5481ca630a96" />
+<img width="1651" height="892" alt="Screenshot 2026-08-09 at 4 43 12 PM" src="https://github.com/user-attachments/assets/71b554ff-70c4-4430-9daf-7eb7a84d8be1" />
 
 
 ### iPhone X
