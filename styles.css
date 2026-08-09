@@ -35,6 +35,9 @@ header {
     text-transform: uppercase;
     font-size: 14px;
 }
+.main-menu .navbar-nav .nav-item:not(.active) {
+    background: #fff;
+}
 .main-menu .navbar-nav .nav-link {
     text-decoration: none;
     color: #888;
